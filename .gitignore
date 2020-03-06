@@ -1,0 +1,13 @@
+cscope.*
+*~
+._*
+*.o
+*.a
+*.swp
+.DS_Store
+*.orig
+*.org
+*.rej
+*.bak
+*.user
+build*/
